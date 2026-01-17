@@ -1,1 +1,1 @@
-// Widgets (WeatherCard, FavoritesList) export
+export { Hedaer } from "./Header";

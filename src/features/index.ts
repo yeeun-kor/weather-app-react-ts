@@ -1,1 +1,1 @@
-// Features (SearchLocation, AddFavorite) export
+export { UserCurrrentWeather } from "./UserCurrentWeather";
