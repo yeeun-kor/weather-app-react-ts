@@ -1,1 +1,1 @@
-// Pages export
+export { HomePage } from "./HomePage";
